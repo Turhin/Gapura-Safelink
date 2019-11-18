@@ -22,9 +22,9 @@ if(a_to_vh==false)
 var x=Math.floor((Math.random()*4)+ 1);
 var xxx=null;
 if(x=="1"){xxx="Buying-Financial-Insurance-in-Canada.html"}
-if(x=="2"){xxx="How-to-Find-the-Best-Insurance-Agency.html"}
-if(x=="3"){xxx="How-Modern-Insurance-Policy-Systems-Are-Reinforcing-the-Insurance-Industry.html"}
-if(x=="4"){xxx="Next-Generation-Automotive-Technology.html"}a_to_ve[i].href="https://www.gapura.net/2019/11/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="2"){xxx="Tips-and-Tricks-for-Saving-on-Auto-Insurance.html"}
+if(x=="3"){xxx="Ferrari-Over-the-Years.html"}
+if(x=="4"){xxx="The-Fossmobile-1897.html"}a_to_ve[i].href="https://www.gapura.net/2019/11/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
