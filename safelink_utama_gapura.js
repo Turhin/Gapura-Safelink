@@ -21,10 +21,10 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*4)+ 1);
 var xxx=null;
-if(x=="1"){xxx="Get-An-Auto-Insurance-Protection-To-Protect-Yourself-From-Financial-Hardship.html"}
-if(x=="2"){xxx="Could-Claims-Challenge-Current-InsurTech-Priorities.html"}
-if(x=="3"){xxx="What-Makes-Insurance-to-Be-the-Paradigm-for-a-Secure-Future.html"}
-if(x=="4"){xxx="how-modern-insurance-policy-systems-are-reinforcing-the-Insurance-Industry.html"}a_to_ve[i].href="https://insurance.gapura.net/2019/10/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="Best-Investment-Opportunities-Guide-for-2020-and-Beyond-Pharmaceuticals-and-More.html"}
+if(x=="2"){xxx="Get-An-Auto-Insurance-Protection-To-Protect-Yourself-From-Financial-Hardship.html"}
+if(x=="3"){xxx="Could-Claims-Challenge-Current-InsurTech-Priorities.html"}
+if(x=="4"){xxx="What-Makes-Insurance-to-Be-the-Paradigm-for-a-Secure-Future.html"}a_to_ve[i].href="https://www.bloggingmoney.net/2019/10/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
