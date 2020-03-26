@@ -24,7 +24,7 @@ var xxx=null;
 if(x=="1"){xxx="Motors-Jeep-CJ-2A-1946.html"}
 if(x=="2"){xxx="The-Jaguar-XJ.html"}
 if(x=="3"){xxx="The-Restoration-of-A1972-BMW-2002tii.html"}
-if(x=="4"){xxx="Interesting-Facts-About-Lamborghini.html"}a_to_ve[i].href="https://cars.gapura.net/2019/11/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="4"){xxx="Interesting-Facts-About-Lamborghini.html"}a_to_ve[i].href="https://classiccars.gapura.net/2019/11/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
